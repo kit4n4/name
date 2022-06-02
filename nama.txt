@@ -1,4 +1,5 @@
-Indip 8987
-Indip 8792
-Indip 82934
-Indip 9392
+<?php
+echo "heloo om bewok<br>";
+echo "kangen om bewok<br>";
+echo "kapan kurus om?";
+?>
